@@ -25,7 +25,7 @@ const SplashScreen: FC=()=> {
   fontFamily='Okra-Medium'
   color='#fff' 
   >
-    Adnan Foods Deliveries in Anywhere in Bangladesh
+    Adnan Foods Deliveries in Anywhere in Bangladeshs
   </CustomText>
    
 
